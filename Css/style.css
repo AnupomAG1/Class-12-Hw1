@@ -426,6 +426,7 @@ color: #000000;
 position: relative;
 outline: #136af7;
 font-weight: 400;
+cursor: pointer;
 
 }
 #RightClick #Copy{
