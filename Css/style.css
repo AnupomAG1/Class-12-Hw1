@@ -23,7 +23,7 @@
 #Thumb{
   width:100px;
   position: absolute;
-  visibility: hidden;
+  opacity: 1%;
 }
 /* common css starting */
 * {
