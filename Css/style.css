@@ -20,11 +20,7 @@
     --transition-medium: 0.6s;
     --transition-slow: 0.8s ;
 }
-#Thumb{
-  width:100px;
-  position: absolute;
-  opacity: 1%;
-}
+
 /* common css starting */
 * {
   padding: 0;
@@ -151,6 +147,11 @@ body{
     top: 0; 
     z-index: 200;
 }
+ #nav #Thumb{
+  width: 1px;
+  position: absolute;
+}
+
 
 #nav ul li a{
     color: var(--primary-color);
